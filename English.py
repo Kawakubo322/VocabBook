@@ -1,5 +1,5 @@
 import random
-path='/Users/kawa0322/Desktop/dictionary.py'
+path='' #output file path here
 d={}
 with open(path, mode='r') as ff:
     l=[]
