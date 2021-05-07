@@ -130,3 +130,6 @@ dmypy.json
 
 # Text file
 dictionary.txt
+
+# DS_STORE
+.DS_Store
